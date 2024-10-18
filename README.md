@@ -23,14 +23,14 @@ The **Customer Churn Prediction App** leverages machine learning to analyze cust
 To run this app locally, follow these steps:
 
 Install required packages:
+ ```bash
 - pip install -r requirements.txt
 - streamlit run app.py
+```
 
 ## Live Deployment
 - You can access the live version of the app here: https://customer-churn-predictionapp.streamlit.app/
 
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
-   cd customer-churn-prediction
+  
+  
